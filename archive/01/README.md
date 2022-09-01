@@ -22,7 +22,7 @@
 * [x] [20 - Adjacency matrix ⬜](./20-adj-matrix/README.md)
 * [x] [21 - Adjacency list 📑](./21-adj-list/README.md)
 * [x] [22 - Depth First Search ⬇️](./22-depth-search/README.md)
-* [ ] 23 - Breadth First Search ↔️
+* [x] [23 - Breadth First Search ↔️](./23-breadth-search/README.md)
 * [ ] 24 - Tree data structure intro 🌳
 * [ ] 25 - Binary search tree 🔍
 * [ ] 26 - Tree traversal 🧗
