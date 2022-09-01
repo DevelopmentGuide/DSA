@@ -25,7 +25,7 @@ This repository contains the code for the **data structures and algorithms** tha
 * [x] [19 - Graphs intro](./archive/01/19-graph/README.md)
 * [x] [20 - Adjacency matrix](./archive/01/20-adj-matrix/README.md)
 * [x] [21 - Adjacency list](./archive/01/21-adj-list/README.md)
-* [ ] 22 - Depth First Search 
+* [x] [22 - Depth First Search](./archive/01/22-depth-search/README.md) 
 * [ ] 23 - Breadth First Search 
 * [ ] 24 - Tree data structure intro
 * [ ] 25 - Binary search tree
