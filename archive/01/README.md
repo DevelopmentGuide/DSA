@@ -20,7 +20,7 @@
 * [x] [18 - Hash Tables #️⃣](./18-hash-table/README.md)
 * [x] [19 - Graphs intro 🌐](./19-graph/README.md)
 * [x] [20 - Adjacency matrix ⬜](./20-adj-matrix/README.md)
-* [ ] 21 - Adjacency list 📑
+* [x] [21 - Adjacency list 📑](./21-adj-list/README.md)
 * [ ] 22 - Depth First Search ⬇️
 * [ ] 23 - Breadth First Search ↔️
 * [ ] 24 - Tree data structure intro 🌳
