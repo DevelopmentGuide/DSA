@@ -27,10 +27,10 @@ This repository contains the code for the **data structures and algorithms** tha
 * [x] [21 - Adjacency list](./archive/01/21-adj-list/README.md)
 * [x] [22 - Depth First Search](./archive/01/22-depth-search/README.md) 
 * [x] [23 - Breadth First Search](./archive/01/23-breadth-search/README.md) 
-* [ ] 24 - Tree data structure intro
-* [ ] 25 - Binary search tree
-* [ ] 26 - Tree traversal
-* [ ] 27 - Calculate execution time 
+* [x] [24 - Tree data structure intro](./archive/01/24-tree/README.md)
+* [x] [25 - Binary search tree](./archive/01/25-binary-search-tree/README.md)
+* [x] [26 - Tree traversal](./archive/01/26-tree-traversal/README.md)
+* [x] [27 - Calculate execution time](./archive/01/27-time/README.md) 
 
 
 

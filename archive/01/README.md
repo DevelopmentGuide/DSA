@@ -23,10 +23,10 @@
 * [x] [21 - Adjacency list 📑](./21-adj-list/README.md)
 * [x] [22 - Depth First Search ⬇️](./22-depth-search/README.md)
 * [x] [23 - Breadth First Search ↔️](./23-breadth-search/README.md)
-* [ ] 24 - Tree data structure intro 🌳
-* [ ] 25 - Binary search tree 🔍
-* [ ] 26 - Tree traversal 🧗
-* [ ] 27 - Calculate execution time ⏱️
+* [x] [24 - Tree data structure intro 🌳](./24-tree/README.md)
+* [x] [25 - Binary search tree 🔍](./25-binary-search-tree/README.md)
+* [x] [26 - Tree traversal 🧗](./26-tree-traversal/README.md)
+* [x] [27 - Calculate execution time ⏱️](./27-time/README.md)
 
 
 ## Structure
