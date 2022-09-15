@@ -20,7 +20,7 @@ This repository contains the code for the **data structures and algorithms** tha
 * [x] [14 - Insertion sort](./archive/01/14-insertion-sort/README.md)
 * [x] [15 - Recursion](./archive/01/15-recursion/README.md)
 * [x] [16 - Merge sort](./archive/01/16-merge-sort/README.md)
-* [ ] 17 - Quick sort
+* [x] [17 - Quick sort](./archive/01/17-quick-sort/README.md)
 * [ ] 18 - Hash Tables 
 * [ ] 19 - Graphs intro
 * [ ] 20 - Adjacency matrix

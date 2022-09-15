@@ -16,7 +16,7 @@
 * [x] [14 - Insertion sort 🧩](./14-insertion-sort/README.md)
 * [x] [15 - Recursion 😵](./15-recursion/README.md)
 * [x] [16 - Merge sort 🔪](./16-merge-sort/README.md)
-* [ ] 17 - Quick sort ⚡
+* [x] [17 - Quick sort ⚡](./17-quick-sort/README.md)
 * [ ] 18 - Hash Tables #️⃣
 * [ ] 19 - Graphs intro 🌐
 * [ ] 20 - Adjacency matrix ⬜
