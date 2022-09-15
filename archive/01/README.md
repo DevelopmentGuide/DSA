@@ -15,7 +15,7 @@
 * [x] [13 - Selection sort 🔦](./13-selection-sort/README.md)
 * [x] [14 - Insertion sort 🧩](./14-insertion-sort/README.md)
 * [x] [15 - Recursion 😵](./15-recursion/README.md)
-* [ ] 16 - Merge sort 🔪
+* [x] [16 - Merge sort 🔪](./16-merge-sort/README.md)
 * [ ] 17 - Quick sort ⚡
 * [ ] 18 - Hash Tables #️⃣
 * [ ] 19 - Graphs intro 🌐
