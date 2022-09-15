@@ -18,7 +18,7 @@ This repository contains the code for the **data structures and algorithms** tha
 * [x] [12 - Bubble sort](./archive/01/12-bubble-sort/README.md)
 * [x] [13 - Selection sort](./archive/01/13-selection-sort/README.md)
 * [x] [14 - Insertion sort](./archive/01/14-insertion-sort/README.md)
-* [ ] 15 - Recursion
+* [x] [15 - Recursion](./archive/01/15-recursion/README.md)
 * [ ] 16 - Merge sort
 * [ ] 17 - Quick sort
 * [ ] 18 - Hash Tables 
