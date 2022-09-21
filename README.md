@@ -5,7 +5,7 @@ This repository contains the code for the **data structures and algorithms** tha
 ## [01 - Data Structures and Algorithms](./archive/01/README.md)
 
 * [ ] [01 - What are data structures and algorithms? 📈](archive/01/01-what-is-dsa/README.md)
-* [ ] 02 - Stacks 📚
+* [ ] [02 - Stacks 📚](./01/../archive/01/02-stacks/README.md)
 * [ ] 03 - Queues 🎟️
 * [ ] 04 - Priority Queues 🥇
 * [ ] 05 - Linked Lists 🔗

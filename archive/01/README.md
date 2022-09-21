@@ -1,7 +1,7 @@
 # Data Structures and Algorithms
 
 * [ ] [01 - What are data structures and algorithms? 📈](./01-what-is-dsa/README.md)
-* [ ] 02 - Stacks 📚
+* [ ] [02 - Stacks 📚](./02-stacks/README.md)
 * [ ] 03 - Queues 🎟️
 * [ ] 04 - Priority Queues 🥇
 * [ ] 05 - Linked Lists 🔗
@@ -28,6 +28,10 @@
 * [ ] 26 - Tree traversal 🧗
 * [ ] 27 - Calculate execution time ⏱️
 
+
+## Structure
+
+![image](https://user-images.githubusercontent.com/76637730/210957730-892d6505-a39a-4e6a-8897-8be669d1b8cf.png)
 
 ## Resources 
 
