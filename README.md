@@ -23,7 +23,7 @@ This repository contains the code for the **data structures and algorithms** tha
 * [x] [17 - Quick sort](./archive/01/17-quick-sort/README.md)
 * [x] [18 - Hash Tables](./archive/01/18-hash-table/README.md)
 * [x] [19 - Graphs intro](./archive/01/19-graph/README.md)
-* [ ] 20 - Adjacency matrix
+* [x] [20 - Adjacency matrix](./archive/01/20-adj-matrix/README.md)
 * [ ] 21 - Adjacency list
 * [ ] 22 - Depth First Search 
 * [ ] 23 - Breadth First Search 

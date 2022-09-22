@@ -19,7 +19,7 @@
 * [x] [17 - Quick sort ⚡](./17-quick-sort/README.md)
 * [x] [18 - Hash Tables #️⃣](./18-hash-table/README.md)
 * [x] [19 - Graphs intro 🌐](./19-graph/README.md)
-* [ ] 20 - Adjacency matrix ⬜
+* [x] [20 - Adjacency matrix ⬜](./20-adj-matrix/README.md)
 * [ ] 21 - Adjacency list 📑
 * [ ] 22 - Depth First Search ⬇️
 * [ ] 23 - Breadth First Search ↔️
