@@ -1,8 +1,8 @@
 # Data Structures and Algorithms
 
-* [ ] [01 - What are data structures and algorithms? 📈](./01-what-is-dsa/README.md)
-* [ ] [02 - Stacks 📚](./02-stacks/README.md)
-* [ ] 03 - Queues 🎟️
+* [x] [01 - What are data structures and algorithms? 📈](./01-what-is-dsa/README.md)
+* [x] [02 - Stacks 📚](./02-stacks/README.md)
+* [x] [03 - Queues 🎟️](./03-queues/README.md)
 * [ ] 04 - Priority Queues 🥇
 * [ ] 05 - Linked Lists 🔗
 * [ ] 06 - Dynamic Arrays 🌱

@@ -4,9 +4,9 @@ This repository contains the code for the **data structures and algorithms** tha
 
 ## [01 - Data Structures and Algorithms](./archive/01/README.md)
 
-* [ ] [01 - What are data structures and algorithms? 📈](archive/01/01-what-is-dsa/README.md)
-* [ ] [02 - Stacks 📚](./01/../archive/01/02-stacks/README.md)
-* [ ] 03 - Queues 🎟️
+* [x] [01 - What are data structures and algorithms? 📈](archive/01/01-what-is-dsa/README.md)
+* [x] [02 - Stacks 📚](./archive/01/02-stacks/README.md)
+* [x] [03 - Queues 🎟️](./archive/01/03-queues/README.md)
 * [ ] 04 - Priority Queues 🥇
 * [ ] 05 - Linked Lists 🔗
 * [ ] 06 - Dynamic Arrays 🌱
