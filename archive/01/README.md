@@ -3,7 +3,7 @@
 * [x] [01 - What are data structures and algorithms? 📈](./01-what-is-dsa/README.md)
 * [x] [02 - Stacks 📚](./02-stacks/README.md)
 * [x] [03 - Queues 🎟️](./03-queues/README.md)
-* [ ] 04 - Priority Queues 🥇
+* [x] [04 - Priority Queues 🥇](./04-priority/README.md)
 * [ ] 05 - Linked Lists 🔗
 * [ ] 06 - Dynamic Arrays 🌱
 * [ ] 07 - LinkedLists vs ArrayLists 🤼‍♂️
