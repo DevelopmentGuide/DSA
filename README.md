@@ -2,13 +2,55 @@
 
 This repository contains the code for the **data structures and algorithms** that I have learned.
 
-## Data Structures
+## [01 - Data Structures and Algorithms](./archive/01/README.md)
 
-* [x] [01-introduction](./archive/01/01-introduction/README.md)
-* [x] [02-array](./archive/01/02-array/README.md)
+* [ ] What are data structures and algorithms? 📈
+* [ ] Stacks 📚
+* [ ] Queues 🎟️
+* [ ] Priority Queues 🥇
+* [ ] Linked Lists 🔗
+* [ ] Dynamic Arrays 🌱
+* [ ] LinkedLists vs ArrayLists 🤼‍♂️
+* [ ] Big O notation 📈
+* [ ] Linear search ⬇️
+* [ ] Binary search 🪓
+* [ ] Interpolation search ❓
+* [ ] Bubble sort 🤿
+* [ ] Selection sort 🔦
+* [ ] Insertion sort 🧩
+* [ ] Recursion 😵
+* [ ] Merge sort 🔪
+* [ ] Quick sort ⚡
+* [ ] Hash Tables #️⃣
+* [ ] Graphs intro 🌐
+* [ ] Adjacency matrix ⬜
+* [ ] Adjacency list 📑
+* [ ] Depth First Search ⬇️
+* [ ] Breadth First Search ↔️
+* [ ] Tree data structure intro 🌳
+* [ ] Binary search tree 🔍
+* [ ] Tree traversal 🧗
+* [ ] Calculate execution time ⏱️
+
+
+
+## [02 - Python for Data Structures Algorithms and Interviews](./archive/02/README.md)
+
+* [x] [01-introduction](./archive/02/01-introduction/README.md)
+* [x] [02-array](./archive/02/02-array/README.md)
+* [ ] 03-Stacks
+* [ ] 04-Linked Lists
+* [ ] 05-Recursion
+* [ ] 06-Trees
+* [ ] 07-Searching and Sorting
+* [ ] 08-Graphs
+* [ ] 09-Riddles
 
 
 ## Resources 
+
+* Data Structures and Algorithms
+  - [YouTube](https://www.youtube.com/watch?v=CBYHwZcbD-s&t=11)
 
 * Python for Data Structures Algorithms and Interviews 
   - [Udemy](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
