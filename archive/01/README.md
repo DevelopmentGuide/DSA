@@ -11,7 +11,7 @@
 * [x] [09 - Linear search ⬇️](./09-linear-search/README.md)
 * [x] [10 - Binary search 🪓](./10-binary-search/README.md)
 * [x] [11 - Interpolation search ❓](./11-interpolation-search/README.md)
-* [ ] 12 - Bubble sort 🤿
+* [x] [12 - Bubble sort 🤿](./12-bubble-sort/README.md)
 * [ ] 13 - Selection sort 🔦
 * [ ] 14 - Insertion sort 🧩
 * [ ] 15 - Recursion 😵
