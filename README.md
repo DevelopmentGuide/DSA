@@ -16,7 +16,7 @@ This repository contains the code for the **data structures and algorithms** tha
 * [x] [10 - Binary search 🪓](./archive/01/10-binary-search/README.md)
 * [x] [11 - Interpolation search ❓](./archive/01/11-interpolation-search/README.md)
 * [x] [12 - Bubble sort 🤿](./archive/01/12-bubble-sort/README.md)
-* [ ] 13 - Selection sort 🔦
+* [x] [13 - Selection sort 🔦](./archive/01/13-selection-sort/README.md)
 * [ ] 14 - Insertion sort 🧩
 * [ ] 15 - Recursion 😵
 * [ ] 16 - Merge sort 🔪
