@@ -14,7 +14,7 @@ This repository contains the code for the **data structures and algorithms** tha
 * [x] [08 - Big O notation 📈](./archive/01/08-big-o/README.md)
 * [x] [09 - Linear search ⬇️](./archive/01/09-linear-search/README.md)
 * [x] [10 - Binary search 🪓](./archive/01/10-binary-search/README.md)
-* [ ] 11 - Interpolation search ❓
+* [x] [11 - Interpolation search ❓](./archive/01/11-interpolation-search/README.md)
 * [ ] 12 - Bubble sort 🤿
 * [ ] 13 - Selection sort 🔦
 * [ ] 14 - Insertion sort 🧩
