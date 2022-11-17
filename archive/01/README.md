@@ -7,7 +7,7 @@
 * [x] [05 - Linked Lists 🔗](./05-linked-list/README.md)
 * [x] [06 - Dynamic Arrays 🌱](./06-dynamic-array/README.md)
 * [x] [07 - LinkedLists vs ArrayLists 🤼‍♂️](./07-vs/README.md)
-* [ ] 08 - Big O notation 📈
+* [x] [08 - Big O notation 📈](./08-big-o/README.md)
 * [ ] 09 - Linear search ⬇️
 * [ ] 10 - Binary search 🪓
 * [ ] 11 - Interpolation search ❓

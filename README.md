@@ -11,7 +11,7 @@ This repository contains the code for the **data structures and algorithms** tha
 * [x] [05 - Linked Lists 🔗](./archive/01/05-linked-list/README.md)
 * [x] [06 - Dynamic Arrays 🌱](./archive/01/06-dynamic-array/README.md)
 * [x] [07 - LinkedLists vs ArrayLists 🤼‍♂️](./archive/01/07-vs/README.md)
-* [ ] 08 - Big O notation 📈
+* [x] [08 - Big O notation 📈](./archive/01/08-big-o/README.md)
 * [ ] 09 - Linear search ⬇️
 * [ ] 10 - Binary search 🪓
 * [ ] 11 - Interpolation search ❓
