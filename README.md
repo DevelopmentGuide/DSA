@@ -10,7 +10,7 @@ This repository contains the code for the **data structures and algorithms** tha
 * [x] [04 - Priority Queues 🥇](./archive/01/04-priority/README.md)
 * [x] [05 - Linked Lists 🔗](./archive/01/05-linked-list/README.md)
 * [x] [06 - Dynamic Arrays 🌱](./archive/01/06-dynamic-array/README.md)
-* [ ] 07 - LinkedLists vs ArrayLists 🤼‍♂️
+* [x] [07 - LinkedLists vs ArrayLists 🤼‍♂️](./archive/01/07-vs/README.md)
 * [ ] 08 - Big O notation 📈
 * [ ] 09 - Linear search ⬇️
 * [ ] 10 - Binary search 🪓

@@ -6,7 +6,7 @@
 * [x] [04 - Priority Queues 🥇](./04-priority/README.md)
 * [x] [05 - Linked Lists 🔗](./05-linked-list/README.md)
 * [x] [06 - Dynamic Arrays 🌱](./06-dynamic-array/README.md)
-* [ ] 07 - LinkedLists vs ArrayLists 🤼‍♂️
+* [x] [07 - LinkedLists vs ArrayLists 🤼‍♂️](./07-vs/README.md)
 * [ ] 08 - Big O notation 📈
 * [ ] 09 - Linear search ⬇️
 * [ ] 10 - Binary search 🪓
