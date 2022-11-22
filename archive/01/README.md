@@ -4,7 +4,7 @@
 * [x] [02 - Stacks 📚](./02-stacks/README.md)
 * [x] [03 - Queues 🎟️](./03-queues/README.md)
 * [x] [04 - Priority Queues 🥇](./04-priority/README.md)
-* [ ] 05 - Linked Lists 🔗
+* [x] [05 - Linked Lists 🔗](./05-linked-list/README.md)
 * [ ] 06 - Dynamic Arrays 🌱
 * [ ] 07 - LinkedLists vs ArrayLists 🤼‍♂️
 * [ ] 08 - Big O notation 📈
