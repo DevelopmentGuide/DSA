@@ -14,9 +14,4 @@
 * [2 - array pair sum](./problem2.ipynb)
 
 
-### Resources
-
-* [Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
-
-
-### [. . back](../../README.md)
+### [. . back](../../../README.md)

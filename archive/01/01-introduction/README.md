@@ -11,17 +11,11 @@
 ### Resources
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
-
 * [techinterviewhandbook](https://www.techinterviewhandbook.org/algorithms/array/)
-
 * [guru99](https://www.guru99.com/array-data-structure.html)
-
 * [geeksforgeeks](https://www.geeksforgeeks.org/array-data-structure/)
-
 * [tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm)
-
 * [hackerearth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
-
 * [hackerrank](https://www.hackerrank.com/challenges/30-arrays/tutorial)
 
 
@@ -29,16 +23,16 @@
 
 ### Materials
 
-* [Jupyter Notebook](./solution2.ipynb)
+- Jupyter Notebook
+  - [Basic](./solution2.ipynb)
+  - [Deep](./solution3.ipynb)
 
 ### Resources
 
+* [neetcode](https://neetcode.io/courses/lessons/big-o-notation)
 * [bigocheatsheet](https://www.bigocheatsheet.com/)
-
 * [Big O Notation](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
-
 * [Big O Notation](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation/487278#487278)
- 
 * [o(log n)](https://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly)
 
-### [. . back](../../README.md)
+### [. . back](../../../README.md)
