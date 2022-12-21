@@ -4,7 +4,9 @@ This repository contains the code for the **data structures and algorithms** tha
 
 ### Data Structures
 
-* [x] [01-introduction](./archive/01-introduction/readme.md)
+* [x] [01-introduction](./archive/01-introduction/README.md)
+
+* [x] [02-array](./archive/02-array/README.md)
 
 
 ### Resources 
